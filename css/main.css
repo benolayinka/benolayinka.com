@@ -1,0 +1,28 @@
+.navbar-item {
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.bold {
+	text-transform: uppercase !important;
+	font-weight: 900 !important;
+}
+
+.nav-img {
+	max-height: initial !important;
+}
+
+.footer {
+	padding: 3rem 1rem 3rem;
+}
+
+.section p a {
+	color:#363636;
+	text-decoration: underline;
+	font-weight: 700;
+}
+
+.footer a {
+	color:#363636;
+	text-decoration: underline;
+}
